@@ -1,5 +1,15 @@
 # protoc-gen-gorm
 
+## Please install from source 
+```
+git clone https://github.com/Vincent-X/protoc-gen-gorm.git
+
+cd protoc-gen-gorm
+
+make install
+```
+
+
 ### [Chinese Documentation](./README-zh_CN.md)
 
 ### Purpose
