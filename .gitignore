@@ -21,3 +21,4 @@ trigger-travis.sh
 
 /protoc-gen-gorm
 /build/
+/.vscode/
